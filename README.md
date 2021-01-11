@@ -6,9 +6,8 @@ Buiten mijn studie om ben ik werkzaam in een kledingwinkel in Nijmegen. Hier foc
 ![family   friends](https://user-images.githubusercontent.com/77282227/104229761-f59eba00-544c-11eb-9ffa-789b7178f18f.JPG)
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Persoonlijke doelen 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
