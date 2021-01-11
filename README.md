@@ -1,5 +1,7 @@
-## Welcome  op de pagina van Bas Terwindt 
-You can use the [editor on GitHub](https://github.com/bas-terwindt/portfolio-3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Welkom op het portfolio van Bas Terwindt 
+Ik ben Bas Terwindt, een 25 jarige student aan de opleiding Ondernemerschap & Retailmanagement. Momenteel ben ik bezig met de minor Smart Industry op de Han in Nijmegen. Ik heb deze minor gekozen om mijn kennis uit te breiden op vakgebieden waar ik normaliter niet of nauwelijks mee te maken krijg. 
+
+Buiten mijn studie om ben ik werkzaam in een kledingwinkel in Nijmegen. Hier focus ik me op het verkopen van trendgevoelige kleding aan een jongere mannelijke doelgroep. De winkel waar ik werk bevindt zich in het middensegment en opereert onder de naam Daily Fresh. Naast mijn werk ben ik veel in de sportschool te vinden waar ik met vrienden fitness. Buiten het sporten met vrienden ben ik veel bij vrienden te vinden en ga ik hier ook regelmatig mee naar voetbalwedstrijden toe. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
