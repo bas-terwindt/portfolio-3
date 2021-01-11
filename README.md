@@ -3,6 +3,9 @@ Ik ben Bas Terwindt, een 25 jarige student aan de opleiding Ondernemerschap & Re
 
 Buiten mijn studie om ben ik werkzaam in een kledingwinkel in Nijmegen. Hier focus ik me op het verkopen van trendgevoelige kleding aan een jongere mannelijke doelgroep. De winkel waar ik werk bevindt zich in het middensegment en opereert onder de naam Daily Fresh. Naast mijn werk ben ik veel in de sportschool te vinden waar ik met vrienden fitness. Buiten het sporten met vrienden ben ik veel bij vrienden te vinden en ga ik hier ook regelmatig mee naar voetbalwedstrijden toe. 
 
+![family   friends](https://user-images.githubusercontent.com/77282227/104229761-f59eba00-544c-11eb-9ffa-789b7178f18f.JPG)
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
